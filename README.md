@@ -1,3 +1,4 @@
+###[Русский](README.RUS.md)
 # v2rayN
 A V2Ray client for Windows, support [Xray core](https://github.com/XTLS/Xray-core) and [v2fly core](https://github.com/v2fly/v2ray-core)
 
