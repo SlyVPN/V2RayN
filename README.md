@@ -1,4 +1,4 @@
-###[Русский](README.RUS.md)
+
 # v2rayN
 Клиент V2Ray для Windows, поддержка [ядра Xray](https://github.com/XTLS/Xray-core) и [ядра v2fly](https://github.com/v2fly/v2ray-core)
 
